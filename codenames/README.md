@@ -31,3 +31,4 @@ An app that helps you play Codenames.
 ## Links
 
 - https://boardgamegeek.com/boardgame/178900/codenames
+- https://www.youtube.com/watch?v=wQ8BIBpya2k
