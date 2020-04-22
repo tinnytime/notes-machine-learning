@@ -1,5 +1,13 @@
 Related words in no particular order
 
+Tensor
+    ?
+
+Input shape
+    ?
+
+    https://stackoverflow.com/questions/44747343/keras-input-explanation-input-shape-units-batch-size-dim-etc
+
 Normalisation
     Transforming features to use a similar scale.
 
@@ -30,6 +38,20 @@ Layer
         neuron in the next layer). A fully connected layer. A linear operation in which every input is connected to every
         output by a weight.
 
+        https://keras.io/layers/core/#dense
+
+    Convolutional layer
+        ?
+
+    Pooling layer
+        ?
+
+    Normalisation layer
+        Performs Normalisation.
+
+    Flatten layer
+        Reduce a tensor to a single dimension.
+
 - Logistic regression
 - Linear regression
 - Gradient of descent
@@ -52,7 +74,6 @@ Layer
 - Trainable parameters
 - Epoch
 - Convolutions
-- Input shape
 - Alpha-beta pruning
 - Depth-limited
 - Minimax
