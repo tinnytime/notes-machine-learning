@@ -1,10 +1,11 @@
-# Related words in no particular order
+Related words in no particular order
 
 Normalisation
     Transforming features to use a similar scale.
 
-    Larger numbers are considered more important(?). If feature A has a range 1-10 and feature B has range 100-1000 then feature B may
-    be given more importance due to its larger values. Normalisation puts both feature A and B on the same scale.
+    Larger numbers are considered more important(?). If feature A has a range 1-10 and feature B has range 100-1000 then
+    feature B may be given more importance due to its larger values. Normalisation puts both feature A and B on the same
+    scale.
 
     https://developers.google.com/machine-learning/data-prep/transform/normalization/
     https://medium.com/@urvashilluniya/why-data-normalization-is-necessary-for-machine-learning-models-681b65a05029
@@ -25,8 +26,9 @@ Model
 
 Layer
     Dense layer
-        Topology. Describes how the neurons are connected to the next layer of neurons (every neuron is connected to every neuron in
-        the next layer). A fully connected layer. A linear operation in which every input is connected to every output by a weight.
+        Topology. Describes how the neurons are connected to the next layer of neurons (every neuron is connected to every
+        neuron in the next layer). A fully connected layer. A linear operation in which every input is connected to every
+        output by a weight.
 
 - Logistic regression
 - Linear regression
