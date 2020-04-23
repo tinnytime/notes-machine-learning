@@ -28,6 +28,11 @@ Class
 
 Learning
     https://www.kdnuggets.com/2018/04/supervised-vs-unsupervised-learning.html
+    https://github.com/yosinski/deep-visualization-toolbox
+    https://www.youtube.com/watch?v=AgkfIQ4IGaM
+
+    Deep learning
+        A neural network with at least one hidden layer.
 
     Supervised learning
         Training a model given input values with their respective output values. Learn a function that best approximates
