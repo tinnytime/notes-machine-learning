@@ -4,7 +4,7 @@ Tensor
     A matrix of >= 3 dimensions.
 
     https://www.kdnuggets.com/2018/05/wtf-tensor.html
-    https://www.youtube.com/watch?v=f5liqUk0ZTw
+    https://www.youtube.com/watch?v=f5liqUk0ZTw|What's a Tensor?
 
 Input shape
     ?
@@ -26,20 +26,52 @@ Bias-variance
 Class
     A label, category, type.
 
+Filtering
+    ?
+
+Convolution
+    ?
+
+Pooling
+    ?
+
+Rectified linear unit (Relu)
+    ?
+
+Neural network
+    Convolutional neural network (CNN)
+        Good for spatial problems where points closer to one another are more related eg. images.
+
+        https://www.kdnuggets.com/2016/08/brohrer-convolutional-neural-networks-explanation.html
+
+    Feed forward neural network (FNN)
+        ?
+
+    Recurrent neural network (RNN)
+        ?
+
 Learning
-    https://www.kdnuggets.com/2018/04/supervised-vs-unsupervised-learning.html
-    https://github.com/yosinski/deep-visualization-toolbox
-    https://www.youtube.com/watch?v=AgkfIQ4IGaM
+    Shallow learning
+        ?
 
     Deep learning
         A neural network with at least one hidden layer.
+
+        https://github.com/yosinski/deep-visualization-toolbox
+        https://www.youtube.com/watch?v=Q9Z20HCPnww|Deep Visualization Toolbox
+        https://www.youtube.com/watch?v=AgkfIQ4IGaM|Deep Learning Demystified
 
     Supervised learning
         Training a model given input values with their respective output values. Learn a function that best approximates
         the relationship between input and output observable in the data.
 
+        https://www.kdnuggets.com/2018/04/supervised-vs-unsupervised-learning.html
+
     Unsupervised learning
         Does not have labeled outputs. The goal is to infer the natural structure present within a set of data points.
+
+    Reinforcement learning
+        ?
 
 Normalisation
     Transforming features to use a similar scale.
@@ -95,7 +127,6 @@ Layer
 - Sigmoid activation
 - Weights
 - Linear softmax
-- Neural network
 - Feed forward network
 - Recurrent neural network
 - Unsupervised neural network
