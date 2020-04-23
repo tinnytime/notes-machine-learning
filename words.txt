@@ -14,6 +14,25 @@ Input shape
 Overfit
     Learning a function that fits the training data very well but does not generalise to other data points.
 
+Bias-variance
+    The bias-variance tradeoff also relates to model generalization. In any model, there is a balance between bias, which is
+    the constant error term, and variance, which is the amount by which the error may vary between different training sets.
+    So, high bias and low variance would be a model that is consistently wrong 20% of the time, whereas a low bias and high
+    variance model would be a model that can be wrong anywhere from 5%-50% of the time, depending on the data used to train
+    it.
+
+    https://www.kdnuggets.com/2018/04/supervised-vs-unsupervised-learning.html
+
+Learning
+    https://www.kdnuggets.com/2018/04/supervised-vs-unsupervised-learning.html
+
+    Supervised learning
+        Training a model given input values with their respective output values. Learn a function that best approximates
+        the relationship between input and output observable in the data.
+
+    Unsupervised learning
+        Does not have labeled outputs. The goal is to infer the natural structure present within a set of data points.
+
 Normalisation
     Transforming features to use a similar scale.
 
