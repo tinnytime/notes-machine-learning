@@ -23,6 +23,9 @@ Bias-variance
 
     https://www.kdnuggets.com/2018/04/supervised-vs-unsupervised-learning.html
 
+Class
+    A label, category, type.
+
 Learning
     https://www.kdnuggets.com/2018/04/supervised-vs-unsupervised-learning.html
 
