@@ -46,6 +46,9 @@ Normalisation
     https://developers.google.com/machine-learning/data-prep/transform/normalization/
     https://medium.com/@urvashilluniya/why-data-normalization-is-necessary-for-machine-learning-models-681b65a05029
 
+Backpropagation
+    ?
+
 Model
     A statistical representation of a prediction task. You train a model on examples then use the model to make predictions.
 
