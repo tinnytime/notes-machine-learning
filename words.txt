@@ -1,7 +1,10 @@
 Related words in no particular order
 
 Tensor
-    ?
+    A matrix of >= 3 dimensions.
+
+    https://www.kdnuggets.com/2018/05/wtf-tensor.html
+    https://www.youtube.com/watch?v=f5liqUk0ZTw
 
 Input shape
     ?
