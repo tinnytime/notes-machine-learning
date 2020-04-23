@@ -15,4 +15,6 @@ Study log to track progress on learning about Machine Learning and rememer that 
 - https://medium.com/oracledevs/lessons-from-implementing-alphazero-7e36e9054191
 - https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f
 - https://cs50.harvard.edu/ai/
+- https://www.kdnuggets.com/2018/05/tutorials.html
+- https://end-to-end-machine-learning.teachable.com/courses/how-deep-neural-networks-work/lectures/9533963
 
