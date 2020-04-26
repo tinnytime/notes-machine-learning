@@ -35,8 +35,6 @@ Convolution
 Pooling
     ?
 
-Rectified linear unit (Relu)
-    ?
 
 Neural network
     Convolutional neural network (CNN)
@@ -48,7 +46,7 @@ Neural network
         ?
 
     Recurrent neural network (RNN)
-        ?
+        ? Used to predict sequential data such as text and time series.
 
 Learning
     Shallow learning
@@ -120,9 +118,46 @@ Layer
     Flatten layer
         Reduce a tensor to a single dimension.
 
+Random forest algorithm
+    An algorithm that produces many decision trees based on random samples of the data. The outputs from each tree are
+    treated as a "vote" - the final decision will be the majority vote for classification problems or the average for
+    regression problems.
+
+    https://www.kdnuggets.com/2020/04/3-reasons-random-forest-neural-network-comparison.html
+
+Function
+    Linear function
+        A straight line.
+
+    Sigmoid function
+        Has an "S" shaped curve.
+
+    Logistic function
+        Is sigmoid shaped. A curve that grows exponentially at first and the slows down and hardly grows at all. This type of
+        growth is called Logistic growth.
+
+        https://www.ck12.org/book/ck-12-precalculus-concepts/section/3.7/
+
+    Rectified linear unit (Relu)
+        A linear function (straight line) that is positive or zero.
+
+    Loss (error) function
+        In logistic regression: Determines how well the neural network performed on a single training example. It compares
+        the predicted output to the actual label.
+
+    Cost function
+        In logistic regression: Determines how well the parameters of a neural network performed on the entire training set.
+        It averages the output of all the loss functions.
+
+Gradient descent
+    An optimisation algorithm used to minimise some function by iteratively moving in the direction of the steepest descent.
+    eg. using gradient descent to minimise the cost function in a logistic regression means trying to find a set of
+    parameters that would make the cost function as small as possible. This is done by iteratively changing the parameters
+    until the cost function is close to its lowest possible value.
+
+- Generalised linear model
 - Logistic regression
 - Linear regression
-- Gradient of descent
 - One-hit encoding
 - Sigmoid activation
 - Weights
