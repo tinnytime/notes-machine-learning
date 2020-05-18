@@ -143,7 +143,8 @@ Function
         https://www.ck12.org/book/ck-12-precalculus-concepts/section/3.7/
 
     Rectified linear unit (Relu)
-        A linear function (straight line) that is positive or zero.
+        A linear function (straight line) that is positive or zero. It can be expressed as:
+        `f(x) = max(0, x)`
 
     Loss (error) function
         In logistic regression: Determines how well the neural network performed on a single training example. It compares
